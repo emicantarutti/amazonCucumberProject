@@ -3,7 +3,7 @@
 # Test Suite
 
 This test is written in Java using 'Cucumber' as a testing framework. 
-The test suite contains only 1 (one) Test case that opens the Amazon main page, browse through the digital cameras, and adds 8 (eight) items of the fifth element within the best seller ones.
+The test suite contains only 1 (one) Test case that opens the Amazon main page, browses through the digital cameras, and adds 8 (eight) items of the fifth element within the best seller ones.
 
 
 ### Cucumber & Selenium
@@ -25,7 +25,7 @@ The class 'BaseSteps' located under the 'com.functional.stepdefinitions' package
 #### Page Object class
 The class 'PageObjectsModel' located under the 'com.functional.selenium' package, holds each and every one of the objects that are present within the 'Amazon' web site.
 #### Test runner
-The 'TestRunner' located under the 'com.functional.tests' is the one that gathers the test written in the feature file and execute the test making sure that each action phrase matches a real step of the step class.
+The 'TestRunner' located under the 'com.functional.tests' is the one that gathers the test written in the feature file and executes the test making sure that each action phrase matches a real step of the step class.
 #### Feature file
 The 'amazongPageTest.feature' located under 'src/test/resources/features' package is a plain text file where the test case is defined. Each and every sentence matches with a method of the Step class.
 
