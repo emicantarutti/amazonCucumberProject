@@ -10,16 +10,6 @@ import cucumber.api.junit.Cucumber;
 		)
  
 public class TestRunner {
-	
-	/*@BeforeClass
-    public static void setUp() {
-    	TestSuiteConfiguration.getInstance().setupSuite("http://localhost:8080/");
-    }
 
-    @AfterClass
-    public static void tearDown() {
-    	TestSuiteConfiguration.getInstance().shutdownSuite();
-    }
-*/
  
 }
