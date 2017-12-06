@@ -39,5 +39,5 @@ The only requirements that you need to run this tests are:
 #### Disclaimer
 
 - At the moment of writing the step of selecting the 5th element of the best seller camera, there was no possibility of buying more than one item due to lack of inventory. Therefore, the tests selects the 6th of that list.
-- The test were designed to be executed in Google Chrome due to is the most used browser nowadays.
+- The test was designed to be executed in Google Chrome due to is the most used browser nowadays.
 
